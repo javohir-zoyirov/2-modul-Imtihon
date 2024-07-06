@@ -1,0 +1,32 @@
+.navbar {
+  background-color: #eeeff1;
+}
+
+#alowishus {
+  background-color: #eeeff1;
+}
+
+#explore {
+  position: relative;
+  background: linear-gradient(173.34deg, #ffffff 0%, #ffffff 0%, rgba(243, 244, 245, 0.2) 11.74%, #f3f4f5 27.92%, rgba(243, 244, 245, 0) 44.79%, rgba(243, 244, 245, 0.68) 60.42%, #f3f4f5 79.17%, #ffffff 100%);
+}
+#explore .img {
+  position: absolute;
+  top: -50px;
+  left: 0;
+  z-index: 1;
+}
+
+.best .img2 {
+  margin-top: -100px;
+}
+.best .instant {
+  position: relative;
+}
+.best .instant .img3 {
+  position: absolute;
+  left: 0;
+  top: 300px;
+}
+
+/*# sourceMappingURL=index.css.map */

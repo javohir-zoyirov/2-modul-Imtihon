@@ -1,0 +1,61 @@
+.navbar {
+  background-color: #eeeff1;
+}
+
+#alowishus {
+  background-color: #eeeff1;
+  .container {
+    .row {
+      .text {
+        .btn:hover {
+          background-color: #ffffff;
+          border: 1px solid black;
+        }
+      }
+    }
+  }
+}
+
+#explore {
+  position: relative;
+  background: linear-gradient(
+    173.34deg,
+    #ffffff 0%,
+    #ffffff 0%,
+    rgba(243, 244, 245, 0.2) 11.74%,
+    #f3f4f5 27.92%,
+    rgba(243, 244, 245, 0) 44.79%,
+    rgba(243, 244, 245, 0.68) 60.42%,
+    #f3f4f5 79.17%,
+    #ffffff 100%
+  );
+
+  .img {
+    position: absolute;
+    top: -50px;
+    left: 0;
+  }
+
+  .container {
+    .row {
+      .card {
+        box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.2);
+      }
+    }
+  }
+}
+
+.best {
+  position: relative;
+  .img2 {
+    margin-top: -100px;
+  }
+
+  .container {
+    .row {
+      .card {
+        box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.2);
+      }
+    }
+  }
+}
